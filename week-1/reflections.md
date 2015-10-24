@@ -25,3 +25,12 @@ rm - removes a file
 
 help - I was confused about this command because I thought this was asking for the 'man' command and that 'help' didnt do anything for Unix users but i gave it a try and it actually does give some helpful insights.
 ### 1.4 Forking and Cloning Reflection
+I feel that I easily learned how to create a new repo, fork a repo, and clone a repo easily by watching that video and reading the written instructions. So I would teach it the exact same way as follows;
+
+To create a repo - After one has created a GitHub account, click on the top right "+" sign and click "new repository", make a name and add the MIT License.
+
+To fork a repo - Click the "fork" button at the top right of selected repository page. This will then take you to your own copy of the repository.
+
+To clone a repo - You will have to open your Terminal and first check where you are (pwd), to be sure that you are cloning to the right directory. Now you will go back to your OWN forked repo page that has your GitHub username and copy the HTTPS URL on the bottom right of the page. Go back to Terminal and type "git clone COPIED_URL_HERE". After the command prompt appears again, execute the 'ls' command and you should now be able to see and navigate into those folders and open them with a text editor.
+
+You would fork a repository as opposed to creating a new one when there are changes that you'd like to make to it, the project is interesting and may want to use in the future, or you'd like to use some or all of the code as a starting point to another project. Whereas creating a new one, is just that, a new blank repository. I learned that setting up git and GitHub is very simple thus far and why people would be using them.
