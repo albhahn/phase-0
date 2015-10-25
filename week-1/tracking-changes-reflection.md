@@ -5,7 +5,7 @@ What is a commit?
 It is like a saving point that also has a message describing what was changed/updated then saved.
 
 What are the best practices for commit messages?
-The first line should be capitalized, short and usually be treated as a subject line while the rest of the text should be the body with a blank line seperating the two. Use the imperative, present tense and seperate additional paragraphs with blank lines. Bullet points are typically used with hyphens or asterisks. Lastly, use a hanging indent.
+The first line letter should be capitalized, short (less than 50 characters) and usually be treated as a subject line while the rest of the text should be the body with a blank line seperating the two. Use the imperative, present tense and seperate additional paragraphs with blank lines. Bullet points are typically used with hyphens or asterisks. Lastly, use a hanging indent.
 
 What does the HEAD^ argument mean?
 It means the last commit you worked on.
@@ -25,4 +25,4 @@ What is a pull request and how do you create and merge one?
 A pull request is a method that allows you to submit changes or contributions to a remote repository such as GitHub, and to tell others when a developer would like to commit changes. Once a pull request is sent, interested and involved parties can then review the set of changes. You can create a pull request once you create a fork from a selected repository from GitHub then push the changes youve made back into your GitHub account. From there youll go back to your fork on GitHub and click "Pull Request", verify that you are on all the correct branches, put a comment on what youve changed, then click "Create pull request". Now to merge your changes, you must click on the pull request you just made, and then click "Merge pull request". You will then have to click to confirm the merge.
 
 Why are pull requests preferred when working with teams?
-Pull requests are preferred because teams can work individually on the same project at any time by adding changes to files and showing how the changes may help improve the project. The team can also review all requested changes or changes that were made.
+Pull requests are preferred because teams can work individually on the same project at any time by adding changes to files and showing how the changes may help improve the project, all while keeping the original/master files. The team can also review all requested changes or changes that were made.
