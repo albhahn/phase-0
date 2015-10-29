@@ -8,7 +8,7 @@ The purpose of my site will be to share my work history, background, passions, a
 It will feature links to my social networks, my picture, contact information, my blog(s), and projects.
 
 ##What is your target audience's interests and how do you see your site addressing them?##
-Their interests will be to see what kind of person and worker I am. My site will be able to address them by providing information 'About me', showing my work/school history, and projects I've worked on.
+Their interests will be to see what kind of person and worker I am. My site will be able to address them by providing information 'About me', showing my work/school history, and projects I've worked on .
 
 ##What is the primary "action" the user should take when coming to your site? Do you want them to search for information, contact you, or see your portfolio? It's ok to have several actions at once, or different actions for different kinds of visitors.##
 The primary action the user should take would be to go through my information and portfolio, then view the best ways to contact me.
