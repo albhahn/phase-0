@@ -5,7 +5,7 @@ Information Gathering, Planning, Design, Development, Testing and Delivery, and 
 The purpose of my site will be to share my work history, background, passions, and projects.
 
 ##What kind of content will your site feature?##
-It will feature links to my social networks, my picture, contact information, my blog(s), and projects.
+It will feature links to my social networks, my picture, contact information, my blog(s), and  projects.
 
 ##What is your target audience's interests and how do you see your site addressing them?##
 Their interests will be to see what kind of person and worker I am. My site will be able to address them by providing information 'About me', showing my work/school history, and projects I've worked on.
