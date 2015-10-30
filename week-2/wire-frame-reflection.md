@@ -16,6 +16,6 @@ A simple question I had for this challenge, was wondering what exactly should go
 **Which parts of the challenge did you enjoy and which parts did you find tedious?**
 I enjoyed actually putting my wireframe together, hands on. I suppose some of the steps in the beginner's guide was tedious at moments when reading/learning about something I had no idea was being explaing(i.e. the Tools).
 
-![Alt text](/imgs/wire-frame.png)
+![Alt text](/imgs/wireframe-index.png)
 
 ![Alt text](/imgs/wireframe-blog-index.png)
