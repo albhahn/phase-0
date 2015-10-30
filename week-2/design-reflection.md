@@ -22,4 +22,4 @@ User experience is designed around how a person feels when interacting with a we
 ##Which parts of the challenge did you find tedious?##
 What I found tedious in this challenge was in-depth reading and learning about how UX design is important and its purpose.
 
-![Alt Text](/site-map.png)
+![Alt Text](/week-2/imgs/site-map.png)
