@@ -21,12 +21,7 @@ a:active {
   float: left;
   padding-bottom: 10px;
   height: 50px;
-
 }
-
-/*.list2 {
-  text-align: right;
-}*/*/
 
 .small {
 font-size: 10px;
@@ -63,13 +58,18 @@ header {
 
 /*
 What is important to know when linking an external file (like a stylesheet) to an HTML file?
+I guess what's important is just making sure you have the correct path to the stylesheet as well as including the "rel" and "type".
 
 What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+Not sure there were any "tricks" that we used, other than a lot of researching. Positioning was definitely the biggest challenge for both my pair and I, we had to try a lot of different properties/selectors and sizes/percentages to try and match the site as best as we could.
 
 What CSS did you use to modify the element style (like size, color, etc.)
+We used font-size and color.
 
 Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+Definitely. We used a lot of classes to help break things down and target certain areas to have a particular font-size and position.
 
 When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+I honestly thought ours had a cleaner code, mainly because we just had LESS code written out and was still able to get very close to how the site looks.
 
 */
