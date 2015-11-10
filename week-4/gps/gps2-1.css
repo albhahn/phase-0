@@ -1,0 +1,26 @@
+.column-1 {
+    float: left;
+    background-color: green;
+    width: 50%;
+    border: 2px dotted black;
+}
+
+.column-2 {
+    float: right;
+    background-color: blue;
+    border: 2px dotted black;
+    margin-bottom: 4em;
+}
+
+header {
+   background-color: teal;
+   border: 2px solid black;
+   margin-bottom: 2em;
+}
+
+footer {
+    clear: both;
+    background-color: teal;
+    border: 2px solid black;
+    margin-top: 20px;
+}
