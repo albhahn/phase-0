@@ -16,6 +16,11 @@ puts 24 * 365
 puts 60 * 24 * 365 * 10
 ```
 
+##Excercise Links##
+[Defining Variables](https://github.com/albhahn/phase-0/blob/master/week-4/defining-variables.rb)
+[Simple String](https://github.com/albhahn/phase-0/blob/master/week-4/simple-string.rb)
+[Basic Math](https://github.com/albhahn/phase-0/blob/master/week-4/basic-math.rb)
+
 ##Reflection##
 **How does Ruby handle addition, subtraction, multiplication, and division of numbers?**
 Just like any calculator would for the most part, except when using division(stated above on the 3rd question). The main thing to consider would be if youre using integers or floats as the number.
